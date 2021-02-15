@@ -17,4 +17,4 @@ else if(isWinterTemperature <= 14 && isRainy){
 }
 else {
    console.log('Consulter la meteo pour savoir comment shabiller')
-};
+}
