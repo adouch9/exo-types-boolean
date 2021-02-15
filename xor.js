@@ -11,3 +11,4 @@ if (a ^ b) {
 } else {
     console.log("Error 404")
 };
+
